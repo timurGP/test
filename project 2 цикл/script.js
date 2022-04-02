@@ -24,3 +24,7 @@ do {
 while (i < 8);
 */
 
+const num = '12.8px'
+
+console.log(parseInt(num))
+console.log(parseFloat(num))
